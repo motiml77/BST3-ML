@@ -1,0 +1,1 @@
+soup = BeautifulSoup(html.content, "html.parser")
